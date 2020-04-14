@@ -23,7 +23,7 @@ void backtracking(int start) {
     for(int i = 0; i < start; i++) {
         if(graph[start] == graph[i] || abs(graph[start] - graph[i]) == abs(start - i)) return;
 		// 같은 x, y축 OR 대각선(\, /)
-	}
+    }
 
     for(int i = 0; i < N; i++) {
         graph[start + 1] = i;
