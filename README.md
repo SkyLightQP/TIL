@@ -5,6 +5,9 @@
 ## Backend
 - [멱등성 (Idempotency)](./Backend/idempotency.md)
 
+## CSE
+- [동시성과 병렬성](./CSE/Concurrency-Parallelism.md)
+
 ## Cryptology
 - [모듈러 연산과 RSA 암호화](./Cryptology/modular.md)
 
