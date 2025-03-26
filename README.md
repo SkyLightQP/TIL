@@ -14,8 +14,8 @@
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
 
-## Programming Language
-- [AST (Abstract Syntax Tree)](./Programming Language/ast.md)
+## Programming-Language
+- [AST (Abstract Syntax Tree)](./Programming-Language/ast.md)
 
 ## React
 - [React Hydrate](./React/react-hydrate.md)
