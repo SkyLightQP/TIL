@@ -15,6 +15,9 @@
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
 
+## OS
+- [OS 스케쥴링](./OS/scheduling.md)
+
 ## Programming-Language
 - [AST (Abstract Syntax Tree)](./Programming-Language/ast.md)
 
