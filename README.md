@@ -18,6 +18,9 @@
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
 
+## Linux
+- [Bash #!/bin/sh](./Linux/bash-bin-sh.md)
+
 ## OS
 - [OS 스케쥴링](./OS/scheduling.md)
 
