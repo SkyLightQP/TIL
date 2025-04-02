@@ -15,6 +15,9 @@
 ## Frontend
 - [Reflow, Repaint](./Frontend/reflow-repaint.md)
 
+## Hardware
+- [IOPS](./Hardware/iops.md)
+
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
 
