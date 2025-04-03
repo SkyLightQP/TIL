@@ -12,6 +12,9 @@
 ## Cryptology
 - [모듈러 연산과 RSA 암호화](./Cryptology/modular.md)
 
+## Etc
+- [Trailing Slash](./Etc/trailing-slash.md)
+
 ## Frontend
 - [Reflow, Repaint](./Frontend/reflow-repaint.md)
 
