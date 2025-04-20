@@ -4,6 +4,7 @@
 
 ## Backend
 - [멱등성 (Idempotency)](./Backend/idempotency.md)
+- [PRG (Post-Redirect-Get) Pattern](./Backend/prg.md)
 
 ## CSE
 - [동시성과 병렬성](./CSE/Concurrency-Parallelism.md)
