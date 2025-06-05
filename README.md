@@ -39,6 +39,7 @@
 
 ## OS
 - [OS 스케쥴링](./OS/scheduling.md)
+- [세마포어와 뮤텍스](./OS/semaphore-mutex.md)
 
 ## Programming-Language
 - [AST (Abstract Syntax Tree)](./Programming-Language/ast.md)
