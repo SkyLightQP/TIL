@@ -32,6 +32,7 @@
 
 ## Network
 - [ARP Spoofing](./Network/arp-spoofing.md)
+- [HTTP 1.0 1.1 1.2](./Network/http-1-2.md)
 - [HTTP/3, QUIC 프로토콜](./Network/http-3.md)
 - [IGMP](./Network/igmp.md)
 - [OSI 7 계층](./Network/osi-7-layer.md)
