@@ -24,6 +24,9 @@
 ## Hardware
 - [IOPS](./Hardware/iops.md)
 
+## Java
+- [Integer Cache](./Java/integer-cache.md)
+
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
 
