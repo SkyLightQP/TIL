@@ -6,6 +6,7 @@
 - [멱등성 (Idempotency)](./Backend/idempotency.md)
 - [Message Broker](./Backend/message-broker.md)
 - [PRG (Post-Redirect-Get) Pattern](./Backend/prg.md)
+- [Service Discovery](./Backend/service-discovery.md)
 
 ## CSE
 - [동시성과 병렬성](./CSE/Concurrency-Parallelism.md)
