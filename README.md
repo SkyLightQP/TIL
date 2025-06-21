@@ -27,6 +27,7 @@
 
 ## Java
 - [Integer Cache](./Java/integer-cache.md)
+- [자바 메모리 구조](./Java/java-memory-structure.md)
 
 ## JavaScript
 - [Jest `toBe()`, `toEqual()`](./JavaScript/jest-tobe-and-toequal.md)
