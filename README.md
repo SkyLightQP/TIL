@@ -3,6 +3,7 @@
 > 언젠가 사라지는 주기억장치를 위한 보조기억장치
 
 ## Backend
+- [분산락 (Distributed Lock)](./Backend/distributed-lock.md)
 - [멱등성 (Idempotency)](./Backend/idempotency.md)
 - [Message Broker](./Backend/message-broker.md)
 - [PRG (Post-Redirect-Get) Pattern](./Backend/prg.md)
